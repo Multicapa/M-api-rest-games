@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mario",
+    "apellido": "Sales"
+  },
+  {
+    "id": 2,
+    "nombre": "Lionel",
+    "apellido": "Messi"
+  },
+  {
+    "id": 3,
+    "nombre": "Gesser",
+    "apellido": "Barrios"
+  },
+  {
+    "id": 4,
+    "nombre": "Genner",
+    "apellido": "Lopez"
+  },
+  {
+    "id": 5,
+    "nombre": "Sergio",
+    "apellido": "Venezuela"
+  },
+  {
+    "id": 6,
+    "nombre": "Pedro",
+    "apellido": "Mejia"
+  },
+  {
+    "id": 7,
+    "nombre": "Luis",
+    "apellido": "Samayoa"
+  },
+  {
+    "id": 8,
+    "nombre": "Luisa",
+    "apellido": "Aguilar"
+  }
+]
